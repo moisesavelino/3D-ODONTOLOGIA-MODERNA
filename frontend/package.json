@@ -1,0 +1,5 @@
+{
+  "name": "odontologia-frontend",
+  "private": true,
+  "scripts": { "dev": "vite" }
+}
