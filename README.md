@@ -1,4 +1,4 @@
-# 🦷 3D Odontologia Moderna – VERSÃO FINAL
+# 🦷 3D Odontologia Moderna
 
 Sistema odontológico profissional pronto para uso em clínica real.
 
